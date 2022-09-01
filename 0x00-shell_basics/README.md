@@ -1,1 +1,1 @@
-absolute pathname of current directpry
+#!/bin/bash/nJane
